@@ -1,0 +1,15 @@
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.AssemblyInfoInputs.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.AssemblyInfo.cs
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.csproj.CoreCompileInputs.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.sourcelink.json
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\bin\Debug\net9.0\CSharp2.exe
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\bin\Debug\net9.0\CSharp2.deps.json
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\bin\Debug\net9.0\CSharp2.runtimeconfig.json
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\bin\Debug\net9.0\CSharp2.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\bin\Debug\net9.0\CSharp2.pdb
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\refint\CSharp2.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.pdb
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\CSharp2.genruntimeconfig.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Code_Stuff\Week2_PullRequest\CSharp2\obj\Debug\net9.0\ref\CSharp2.dll
